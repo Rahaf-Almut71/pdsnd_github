@@ -7,7 +7,11 @@
 bikeshare Project 
 
 ### Description
+
 Describe what your project is about and what it does
+
+### Project Overview
+This project focuses on pandas library usage and simple statistics methods to perform descriptive analysis on the bikeshare data .
 
 ### Files used
 Include the files used
