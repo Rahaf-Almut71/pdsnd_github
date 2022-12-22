@@ -4,7 +4,7 @@
 2/12/2022.
 
 ### Project Title
-bikeshare Project 
+ udacity_bikeshare.py
 
 ### Description
 
@@ -19,3 +19,8 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+
+###Extra Links that halped me solve the project :
+https://www.python-course.eu/python3_input.php
+https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response
+https://stackoverflow.com/questions/2847386/python-string-and-integer-concatenation
