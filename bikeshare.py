@@ -50,7 +50,7 @@ def get_filters():
     while day.lower() in days:
         break
     while day not in days:
-        print("Please enter a valid choice")
+        print("Please enter a valid choice !")
         day=input("please choose a day from the following list('monday','tuesday','wednesday','thursday','friday','saturday','sunday')to analyze or use all to see the whole week :").lower()
         continue
         
