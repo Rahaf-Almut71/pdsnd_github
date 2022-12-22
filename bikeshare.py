@@ -50,7 +50,7 @@ def get_filters():
     while day.lower() in days:
         break
     while day not in days:
-        print("Please enter a valid choice")
+        print("Please enter a valid choice !")
         day=input("please choose a day from the following list('monday','tuesday','wednesday','thursday','friday','saturday','sunday')to analyze or use all to see the whole week :").lower()
         continue
         
@@ -150,7 +150,7 @@ def trip_duration_stats(df):
 
     # TO DO: display mean travel time
     mean_travel_time=df['Trip Duration'].mean()
-    print('The mean of trip Duration is {}.'.format(mean_travel_time))
+    print('The mean of Trip Duration is {}.'.format(mean_travel_time))
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
